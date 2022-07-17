@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileZilla3 version="3.46.3" platform="*nix">
+	<Queue>
+		<Server>
+			<Host>10.10.10.55</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>yasirarce</User>
+			<Pass encoding="base64">MjcwNjIw</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<File>
+				<LocalFile>/home/angelica/Desktop/projects/cba-auditoria/public/Tarea.exe</LocalFile>
+				<RemoteFile>Tarea.exe</RemoteFile>
+				<RemotePath>1 0 4 home 9 yasirarce 10 Escritorio</RemotePath>
+				<Download>1</Download>
+				<Size>0</Size>
+				<DataType>1</DataType>
+			</File>
+		</Server>
+	</Queue>
+</FileZilla3>
